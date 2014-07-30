@@ -23,11 +23,6 @@ body {
 
 /* Navigation */
 
-/*.navbar {
-	background-image: url("../img/ricepaper.png");
-	background-size: no-repeat;
-}*/
-
 .nav-pills li a {
 	border-radius: 4px;
 	color: #2FA88C;
